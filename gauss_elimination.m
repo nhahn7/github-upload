@@ -22,7 +22,6 @@ for ii = 1:N-1 %for each pivot entry along the diagonal
     end
 end
 Aug_matrix %Display upper triangular matrix
-
 %Perform Back Substitution
 
 
